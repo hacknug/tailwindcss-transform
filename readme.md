@@ -1,5 +1,7 @@
 # Tailwind CSS Transform Plugin
 
+**Deprecated due to [`tailwindcss-transforms`](https://github.com/benface/tailwindcss-transforms) being a better option.**
+
 This plugin adds utilities to use transforms with Tailwind CSS.
 
 ## Installation
@@ -16,7 +18,7 @@ yarn add -D tailwindcss-transform
 
 ## Notes
 
-I will be adding support for customizing the existing values as well as for creating classes for `perspective` and `transform` soon-ish. Feel free to open an issue if you need it before I get to it.
+~I will be adding support for customizing the existing values as well as for creating classes for `perspective` and `transform` soon-ish. Feel free to open an issue if you need it before I get to it.~
 
 ## Usage
 
